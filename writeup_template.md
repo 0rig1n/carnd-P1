@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./test_images_output/solidWhiteRight.jpg "result"
 
 ---
 
@@ -28,7 +28,7 @@ First find the potential white pixil in the image , I implenment it according to
 finally,I use Canny edge detection and Hough transform to find out the edge line of lane lines.
 the demo result is here:
 
-![alt text][image1]: ./test_images_output/solidWhiteRight.jpg "result"
+![alt text][image1]
 
 
 
